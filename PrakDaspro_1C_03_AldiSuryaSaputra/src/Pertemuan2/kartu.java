@@ -2,7 +2,7 @@ public class kartu {
     public class RencanaStudiMahasiswa {
         public static void main(String[] args) {
             // Header informasi mahasiswa
-            System.out.println("Data Rencana Studi Mahasiswa\n");
+            System.out.println("Data Rencana Studi Mahasiswa Polinema\n");
             System.out.println("Tahun Akademik : 2024/2025 Ganjil");
             System.out.println("Kelas : 1C");
             System.out.println("IP Semester Lalu : 0.00");
